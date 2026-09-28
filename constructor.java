@@ -1,6 +1,6 @@
 class con{
 
-con(){
+con(){ //same name as class name constructor 
 //everytime you create an object it will call constructor, even n of object creation , constructor same name as class name
 System.out.println("chay");
 
