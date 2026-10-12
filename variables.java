@@ -1,13 +1,14 @@
 public class variables {
  static int a = 8; 
-
+//static varible can call using class name
  int b = 9;
+ // non static can call using obj type
   public static void main(String[] args) {
     
     int a = 10;
     long b =  100000000;
     
-    System.out.println(a);//local variable --- variable declared inside the main medhod only 
+    System.out.println(a);//local variable --- variable declared inside the class ouside medhod only 
     System.out.println(variables.a); //static we use static key word, we acess static varible using class name***git reset 
 
 

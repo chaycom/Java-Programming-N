@@ -1,0 +1,16 @@
+// polimorsiam - many forms  - 1(Method overloding) 2(Method overridding) 
+// Inhertance - Parent class  -  child class - extend keyword
+// Encapsulation - 
+// Abstration - interface and abstract medthod 
+
+
+//Assiging sub class instace super class typr referace is known as upcasting
+//It is automastic and immplicite 
+upcasting helps generalizing the code
+
+downcasting - casting super class referace to sub type is known as downcasing its explicite 
+
+using super class referece sub classes specific feture cannot be referanced or called 
+to refer sub class specific properties we need downcasting 
+
+note program video
