@@ -14,3 +14,7 @@ using super class referece sub classes specific feture cannot be referanced or c
 to refer sub class specific properties we need downcasting 
 
 note program video
+
+class is blueprint 
+object real entity its takes memory 
+class get 
